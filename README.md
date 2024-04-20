@@ -22,7 +22,9 @@ existence_of_NPAUF.v           --  the formal verification of the existence of N
 The dependency of these files:
 
 mk_structure.v  ->  mk_theorems.v  -> operations_on_ω.v  ->  infinite_sets.v  ->  filter.v  ->      filter_extension.v      ->  existence_of_NPAUF.v
+
                                                                                             |                               |
+                                                                                            
                                                                                             ->  arithmetical_ultrafilter.v  ->
 
 The file instruction.pdf is edited to introduce how to use these (.v)files in CoqIDE.
