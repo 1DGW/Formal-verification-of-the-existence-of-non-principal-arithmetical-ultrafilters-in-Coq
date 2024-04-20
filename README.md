@@ -4,8 +4,8 @@ Coq is a formal proof management system. It provides a formal language to write 
  
 It is suggested to run our code using a graphical Coq interface, such as CoqIDE for Windows, as it facilitates interactive checking of proof processes. <br>
  
-The code is developed in the CoqIDE (version 8.13.6) for 64 bit Windows and can be run at this version or higher ones.
-CoqIDE (version 8.13.6) is available at [here](https://github.com/coq/platform/releases/download/2021.02.1/coq-platform-2021.02.1-installer-windows-x86_64.exe).
+The code is developed in the CoqIDE (version 8.13.2) for 64 bit Windows and can be run at this version or higher ones.
+CoqIDE (version 8.13.2) is available at [here](https://github.com/coq/platform/releases/download/2021.02.1/coq-platform-2021.02.1-installer-windows-x86_64.exe).
 For other versions of Coq, click [here](https://coq.inria.fr/download). <br><br>
 
 **The formalization comprises 8 (.v)files, whcih can be modified, run and compiled in CoqIDE. Here are the contents of each file:**
