@@ -11,12 +11,19 @@ For other versions of Coq, click [here](https://coq.inria.fr/download).
 The formalization comprises 8 (.v)files, whcih can be modified, run and compiled in CoqIDE. Here are the contents of each file:
 
 mk_structure.v                 --  the formalization of definitions and axioms of Morse-Kelley (MK) axiomatic set theory.
+
 mk_theorems.v                  --  the formalization and verification of theorems of MK.
+
 operations_on_ω.v              --  the formal verification of fundamental operations (addition and multiplication) on natural numbers. 
+
 infinite_sets.v                --  the formal verification of some properties involving infinite sets.
+
 filter.v                       --  the formalization of concepts about filters (including ultrafilters, principal ultrafilters, free ultrafilters and more).
+
 filter_extension.v             --  the formal verification of the Filter Extension Principle (FEP).
+
 arithmetical_ultrafilter.v     --  the formalization of the concepts of arithmetical ultrafilter (AUF) and non-principal arithmetical ultrafilter (NPAUF).
+
 existence_of_NPAUF.v           --  the formal verification of the existence of NPAUF.
 
 The dependency of these files:
