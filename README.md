@@ -1,4 +1,5 @@
-This formalization project is developed with the [Coq proof assistant](https://coq.inria.fr/) to verify the mathematical theory -- the existence of non-principal arithmetical ultrafilters (NPAUF). <br>
+This formalization project is developed with the [Coq proof assistant](https://coq.inria.fr/) to verify the mathematical theory -- the existence of non-principal arithmetical ultrafilters (NPAUF).
+This work is based on the formalization project of [Morse-Kelley](https://github.com/1DGW/Formalization-of-Morse-Kelley-axiomatic-set-theory) (MK) axiomatic set theory. <br>
 
 Coq is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs. <br>    
  
