@@ -32,3 +32,12 @@ existence_of_NPAUF.v &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; --  
 mk_structure.v  ->  mk_theorems.v  -> operations_on_ω.v  ->  infinite_sets.v  ->  filter.v  ->  filter_extension.v  &  arithmetical_ultrafilter.v  ->  existence_of_NPAUF.v <br><br>
 
 The file **instruction.pdf** is edited to introduce how to use these (.v)files in CoqIDE.
+
+**Relevant Papers & Books**
+
+\[1\] Dou G, Yu W. Formalization of the Filter Extension Principle (FEP) in Coq. In: Zhang L, Yu W, Wang Q, et al, eds. Intelligent
+Networked Things. CINT 2024. Communications in Computer and Information Science (CCIS). Singapore: Springer, 2024, 2138: 95–106 https://doi.org/10.1007/978-981-97-3951-6_10
+
+\[2\] Dou G, Chen S, Yu W, Zhang R. The Continuum Hypothesis Implies the Existence of Non-principal Arithmetical Ultrafilters - A Coq Formal Verification.
+In: Ogata K, Mery D, Sun M, Liu S, eds. Formal Methods and Software Engineering. ICFEM 2024. Lecture Notes in Computer Science (LNCS). Singapore: Springer, 2024, 15394: 257–277
+https://doi.org/10.1007/978-981-96-0617-7_15
